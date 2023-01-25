@@ -15,8 +15,8 @@ npm install -g nodemon
 
 ### 3. В папке natours в файле config.env запишите значение для следующих переменных окружения 
 ```javascript 
-DATABASE=your_database_url (вместо <password> напишите <PASSWORD>)
-DATABASE_PASSWORD=mongoose-password
+DATABASE=your_mongoDB_url (вместо <password> напишите <PASSWORD>)
+DATABASE_PASSWORD=mongoDB-password
 
 JWT_SECRET=my-ultra_secure_and_ultra_long_secret_32chars
 
