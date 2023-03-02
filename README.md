@@ -8,7 +8,7 @@
 ```bash
 npm install
 ```
-отдельно установите nodemon
+отдельно установите nodemon(можете установить в проект --save-dev)
 ```bash
 npm install -g nodemon
 ```
